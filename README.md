@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarra9b
-- 👀 I’m interested in applied mathmematics, machine learning, data science and cryptography
+- 👀 I’m interested in applied mathmematics, machine learning, data science
 - 🌱 I’m currently learning python programming and data science.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
